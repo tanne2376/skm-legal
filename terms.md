@@ -31,8 +31,8 @@ details confidential and for activity that happens under your account.
   full refund. 3 hours or less before, no refund.
 - **1-to-1 sessions** — cancel more than 24 hours before the session
   starts for a full refund. 24 hours or less before, no refund.
-- Memberships can be cancelled at any time from
-  **Settings → Membership** and remain active until the end of the
+- Memberships can be cancelled at any time from the
+  **Membership** tab and remain active until the end of the
   current billing period.
 - 1-to-1 sessions are not included in any membership.
 
